@@ -1,6 +1,7 @@
 # MERN Stack - Ecommerce
 
 ## Install dependencies for server
+## con node 14 todo proyecto
 
 ### `npm install`
 
